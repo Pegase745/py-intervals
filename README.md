@@ -1,8 +1,6 @@
-# py-intervals
+# py-intervals [![Build Status](https://travis-ci.com/Pegase745/py-intervals.svg?branch=master)](https://travis-ci.com/Pegase745/py-intervals) [![codecov](https://codecov.io/gh/Pegase745/py-intervals/branch/master/graph/badge.svg)](https://codecov.io/gh/Pegase745/py-intervals) [![black](https://img.shields.io/badge/code%20style-black-000000.svg)]()
 
 ![Screenshot](/screenshot.png)
-[![Build Status](https://travis-ci.com/Pegase745/py-intervals.svg?branch=master)](https://travis-ci.com/Pegase745/py-intervals)
-[![codecov](https://codecov.io/gh/Pegase745/py-intervals/branch/master/graph/badge.svg)](https://codecov.io/gh/Pegase745/py-intervals)
 
 
 **Requirements**
